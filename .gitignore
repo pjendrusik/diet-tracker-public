@@ -1,0 +1,15 @@
+/target/
+/project/project/
+/project/target/
+/metals/
+.bloop/
+.metals/
+.idea/
+.vscode/
+.DS_Store
+*.log
+.env*
+.bsp
+.codex
+/mobile/node_modules
+/mobile/.expo

@@ -1,0 +1,23 @@
+# SCM + tooling
+.git
+.gitignore
+.bsp/
+.metals/
+.idea/
+.vscode/
+.DS_Store
+
+# Build artifacts
+/target/
+/project/target/
+/project/project/
+
+# Dependencies
+node_modules/
+
+# Runtime/config secrets
+.env*
+*.log
+
+# Misc
+Dockerfile*
